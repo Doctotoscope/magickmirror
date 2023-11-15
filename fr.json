@@ -1,30 +1,70 @@
 {
   "anytime": [
-    "Tu as l'air super aujourd'hui !",
-    "Aujourd'hui est une journée incroyable !",
-    "Tu fais la différence",
-    "Un magnifique sourire, pour une belle journée",
-    "Es-tu toujours en train de te regarder dans le miroir ?",
-    "Le miroir dit : 'salut'"
+    "Tu gères la fougère",
+    "Souris, tu ne peux pas tous les tuer",
+    "N'oublie pas de t'hydrater",
+    "En voiture Simone"
   ],
   "morning": [
-    "Tes cheveux sont géniaux aujourd'hui !",
-    "Commence la journée avec un sourire",
-    "Ce sera une belle journée !",
-    "La journée n'est-elle pas fantastique ?",
-    "Prépare-toi pour une journée géniale !"
+    "Wow, t'es canon !",
+    "Un café d'abord, le reste après",
+    "Encore un petit café pour la route ?",
+    "Allez, hauts les coeurs !"
   ],
   "afternoon": [
-    "Terminant juste ton travail...",
-    "Après-midi, pas le matin, pas le midi",
-    "Cette journée est superbe",
-    "Presque l'heure du dîner !"
+    "Courage, bientôt la fin de la journée",
+    "C'est bientôt l'heure du goûter !",
+    "Tu vas y arriver !",
+    "Encore un petit effort...",
+    "Encore du travail ?"
   ],
   "evening": [
-    "Juste quelques appels à passer..",
-    "Bon appétit",
-    "Repose-toi, c'est génial",
-    "Tu as fait la différence",
-    "As-tu aimé ton repas ?"
+    "Respire et détends toi",
+    "Le gras c'est la vie",
+    "Repose-toi bien",
+    "Profite du calme",
+    "Encore une journée bien remplie ! ",
+    "Posay Josay sur mon canapay"
+  ],
+  "day_sunny": [
+    "Aujourd'hui, il fait beau !",
+    "Belle journée pour la photosynthèse"
+  ],
+  "snow": [
+    "Bataille de boules de neiges !",
+    "IL NEIGE YOUPIIIIIIIIII"
+  ],
+  "rain": [
+    "N'oublie pas ton parapluie",
+    "Un vrai temps du Nord..."
+  ],
+  "thunderstorm": [
+    "Fais attention, il y a de l'orage dehors",
+    "Vu le temps, mieux vaut rester à la maison"
+  ],
+  "fog": [
+    "Attention au brouillard"
+  ],
+  "day_cloudy": [
+    "Au moins, il ne pleut pas",
+    "Il y aura peut être des éclarcies dans la journée"
+  ],
+  "....-01-01": [
+    "Bonne année !"
+  ],
+  "....-10-31": [
+    "Profite bien de Samhain !"
+  ],
+  "....-12-24": [
+    "Passe un bon réveillon de Noël !"
+  ],
+  "....-12-25": [
+    "Joyeux Noël !"
+  ],
+  "....-01-27": [
+    "Joyeux anniversaire Clara !"
+  ],
+  "....-10-28": [
+    "Joyeux anniversaire Kévin !"
   ]
 }
